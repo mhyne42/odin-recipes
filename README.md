@@ -1,3 +1,3 @@
 # odin-recipes
 
-Work on my first autonomy website 
+Website with some recipes for cool cooking
